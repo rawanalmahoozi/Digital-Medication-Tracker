@@ -3,7 +3,7 @@ import pandas as pd
 import os
 from datetime import datetime as dt 
 import requests
-#from dotenv import load_dotenv
+from dotenv import load_dotenv
 from openai import OpenAI
 
 

@@ -1,9 +1,9 @@
 import streamlit as st
 import requests
-#from IPython.display import JSON
-#from dotenv import load_dotenv
+from IPython.display import JSON
+from dotenv import load_dotenv
 import os
-#from openai import OpenAI
+from openai import OpenAI
 
 st.title('Digital :red[Medication] Tracker', icon = '⚕️', text_alignment = 'center')
 
