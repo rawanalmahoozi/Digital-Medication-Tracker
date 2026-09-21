@@ -236,13 +236,12 @@ def get_medication_info(name):
 
 
 
-load_dotenv('.env')
-open_api_key = os.getenv('API_KEY')
+#load_dotenv('.env')
+#open_api_key = os.getenv('API_KEY')
+open_api_key = st.secrets['API_KEY']
+if not open_api_key:
+    raise RuntimeError("API_KEY")
 
-client = OpenAI(
-    base_url="https://openrouter.ai/api/v1",
-    api_key=os.getenv('API_KEY')
-)
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1", # putting what we want 
