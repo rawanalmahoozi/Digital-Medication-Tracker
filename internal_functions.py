@@ -4,7 +4,7 @@ import os
 from datetime import datetime as dt 
 import requests
 #from dotenv import load_dotenv
-#from openai import OpenAI
+from openai import OpenAI
 
 
 def add_medications(name, expiry_date, ingredient, symptoms, dosage, quantity, usage, urgency, category):
