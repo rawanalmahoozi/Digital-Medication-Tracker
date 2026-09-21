@@ -1,0 +1,6 @@
+streamlit 
+openai 
+dotenv '
+pandas
+requests
+datetime
