@@ -1,6 +1,5 @@
-streamlit 
-openai 
-dotenv '
+streamlit
+openai
+python-dotenv
 pandas
 requests
-datetime
