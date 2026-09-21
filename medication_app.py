@@ -1,6 +1,6 @@
 import streamlit as st
 import requests
-from IPython.display import JSON
+#from IPython.display import JSON
 from dotenv import load_dotenv
 import os
 from openai import OpenAI
