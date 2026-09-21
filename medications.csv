@@ -1,0 +1,12 @@
+name,expiry_date,ingredient,symptoms,dosage,quantity,usage,urgency,category
+Metformin,14/01/2027,Metformin,"Type 2 diabetes, high blood sugar",Every 12 Hours,60,Take with meals to reduce stomach upset,Medium,Prescription
+Lisinopril,22/02/2027,Lisinopril,"High blood pressure, hypertension",Every 24 Hours,30,Take at the same time each day,Medium,Prescription
+Levothyroxine,08/04/2027,Levothyroxine,"Hypothyroidism, low thyroid hormone",Every 24 Hours,30,Take on an empty stomach and wait 30 minutes before eating,Medium,Prescription
+Nexium,25/09/2026,Esomeprazole,"Acid reflux, GERD, Stomach ulcers",Every 24 Hours,28,Take before a meal,Low,Prescription
+Low-Dose Aspirin,09/09/2026,Aspirin,Heart attack and stroke prevention,Every 24 Hours,30,Take with food,Medium,Prescription
+Vitamin D3,01/01/2029,Cholecalciferol,"Bone health, Immune support",Every 24 Hours,60,Take with food,Low,Supplement
+Calcium + Vitamin D,30/09/2026,"Calcium Carbonate, Cholecalciferol","Bone health, Osteoporosis prevention",Every 24 Hours,45,Take with a meal,Low,Supplement
+Epinephrine,03/11/2026,Epinephrine,"Severe allergic reaction, anaphylaxis",As needed in emergency,2,Injected and seek immediate medical help after use,High,Prescription
+Panadol Extra,2033-09-22,"acetaminophen, caffeine",Headache,Every 6 Hours ,24,After food,Low,Over the Counter
+Panadol,2026-09-21,acetaminophen,Headache,Every 6 Hours,23,Take after food,Low,Over the Counter
+Panadol ,2026-09-28,acetaminophen,headache,Every 24 Hours,1,j,Low,Prescription
