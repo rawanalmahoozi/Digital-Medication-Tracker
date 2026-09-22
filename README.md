@@ -1,5 +1,6 @@
 # 💊 Digital Medication Tracker
 [Medication.app](https://medicationtracking.streamlit.app/)
+[Medication.video](https://drive.google.com/file/d/1KJheUtv6Ss0XtQAxIXrXUVkyr_dHQQg3/view?usp=sharing)
 
 A multi-page Streamlit application for managing personal medications, adding new meds, tracking intake, checking ingridentnts interactions with an AI advisor and monitoring compliance and refill/expiry status.
 
